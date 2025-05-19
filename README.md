@@ -8,7 +8,7 @@ You will need to rename them to `nn_train.csv` and `nn_test.csv` in order for th
 # Train and test
 The train file has 42000 records, we use 41000 for training and 1000 for holdout data to measure performance on unseen data.
 
-The test file has 28000 records, in the end of the notebook I have used the function `test_prediction` in way that it recreates the image, showcases the prediction and the probability density function of the 10 digit clasess (in lament terms I wanted to see how the model was 'thinking' i.e. how confident it is in the answer).
+The test file has 28000 records, in the end of the notebook I have used the function `test_prediction` in a way that it recreates the image, showcases the prediction and the probability density function of the 10 digit clasess (in lament terms I wanted to see how the model was 'thinking' i.e. how confident it is in the answer).
 
 
 # Neural Network Mathematical Formulation
