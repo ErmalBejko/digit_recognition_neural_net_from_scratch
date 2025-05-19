@@ -1,5 +1,5 @@
 # Neural Network implementation
-The story behind this project, is that last year I got very annoyed that I was hearing the buzzwords 'Neural Networks' and 'AI' non-stop, While I knew nothing about them.
+The story behind this project, is that last year I got very annoyed that I was hearing the buzzwords 'Neural Networks' and 'AI' non-stop, while I knew nothing about them.
 So one day I decided to research the maths, write it down, then code an implementation from scratch, no TensorFlow no PyTorch, just numpy and pandas.
 
 You can find the train and test datasets in [kaggle](https://www.kaggle.com/code/ermalbejko/digit-classifier-1?select=test.csv)
